@@ -3,7 +3,7 @@
 
 ## How to view code
 
--   Click into folder to <u>view detail code for homework</u> in online-judge system.
+-   Click following links to <u>view detail code for homework</u> in online-judge system.
 
 [Code for week 6](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-6)
 
