@@ -35,3 +35,6 @@ cls.bat
 # VSCODE configs
 .vscode
 *.json
+
+# Markdown Samples
+SAMPLE.md
