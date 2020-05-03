@@ -1,24 +1,24 @@
 # XJTU-CollegeComputer-2020spring
 >   Used to store **OJ codes in homework** and keep a study record.
 
-## How to view code
+## :page_with_curl: How to view code
 
--   Click following links to <u>view detail code for homework</u> in online-judge system (with <u>MOOC test answers</u> every week).
+-   ​Click following :link:links to <u>view detail code for homework</u> in XJTU online-judge system (with <u>MOOC test answers</u> every week).
 
-[Code for week 06](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-06)
+:pushpin: [Code for week 06](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-06)
 
-[Code for week 10](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-10)
+:pushpin: [Code for week 10](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-10)
 
-[Code for week 11](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-11)
+:pushpin: [Code for week 11](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-11)
 
-[Answers for MOOC tests](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/MOOCtests)
+:secret: ​[Answers for MOOC tests](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/MOOCtests)
 
->   Don't worry, I'll upload codes for the previous weeks very quickly. Thanks for understanding!
+>   Don't worry, I'll upload codes for the previous weeks very quickly :calendar: Thanks for understanding!
 
 -   I'll do my utmost to keep updating AS SOON AS POSSIBLE.
--   If it's helpful for you, please click **:star:Star** in the top right corner of the page! Thanks a lot!:grin:
+-   If it's helpful for you, please click **:star:Star** in the top right corner of the page! Thanks a lot:pray:
 
-## Compiler
+## :keycap_ten: Compiler
 
 -   **OJ Compiler:** VS2017 (MSVC)
 -   **Local Compiler:**
@@ -26,8 +26,11 @@
     - GNU gdb 8.1
     - clang & lldb (slightly used)
 
-## Code Editor
+## :computer: Code Editor
 
 -   VScode
 -   Vim
--   Windows Notepad (slightly used)
+
+## :email: Contact Me
+
+-   Email: SciZeal@outlook.com
