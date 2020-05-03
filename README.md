@@ -3,16 +3,17 @@
 
 ## How to view code
 
--   Click following links to <u>view detail code for homework</u> in online-judge system.
+-   Click following links to <u>view detail code for homework</u> in online-judge system (with <u>MOOC test answers</u> every week).
 
 [Code for week 6](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-06)
 
 [Code for week 11](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-11)
 
+[Answers for MOOC tests](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/MOOCtests)
+
 >   Don't worry, I'll upload codes for the previous weeks very quickly. Thanks for understanding!
 
 -   I'll do my utmost to keep updating AS SOON AS POSSIBLE.
-
 -   If it's helpful for you, please click **:star:Star** in the top right corner of the page! Thanks a lot!:grin:
 
 ## Compiler
