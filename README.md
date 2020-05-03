@@ -5,7 +5,9 @@
 
 -   Click following links to <u>view detail code for homework</u> in online-judge system (with <u>MOOC test answers</u> every week).
 
-[Code for week 6](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-06)
+[Code for week 06](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-06)
+
+[Code for week 10](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-10)
 
 [Code for week 11](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-11)
 
