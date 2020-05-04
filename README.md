@@ -11,6 +11,8 @@
 
 :pushpin: [Code for week 11](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-11)
 
+:pushpin: [Code for week 12](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-12)
+
 :secret: ​[Answers for MOOC tests](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/MOOCtests)
 
 >   Don't worry, I'll upload codes for the previous weeks very quickly :calendar: Thanks for understanding!
