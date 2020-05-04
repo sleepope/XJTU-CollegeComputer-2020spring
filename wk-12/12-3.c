@@ -15,6 +15,7 @@
 
 int a[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15};
 
+// binary search
 int bin_search(int *arr, int position_min, int position_max, int key)
 {
     int halfway;
