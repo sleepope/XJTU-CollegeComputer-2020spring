@@ -36,5 +36,9 @@ cls.bat
 .vscode
 *.json
 
-# Markdown Samples
+# Markdown samples
 SAMPLE.md
+
+# Local test files
+data.in
+data.out
