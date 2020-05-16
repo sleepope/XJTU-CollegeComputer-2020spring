@@ -13,6 +13,7 @@
 
 #define maxn 100
 
+// search the index of key in string[]
 int search(char *string, char key)
 {
     int length = strlen(string);
