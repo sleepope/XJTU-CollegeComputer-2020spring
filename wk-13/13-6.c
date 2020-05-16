@@ -1,0 +1,37 @@
+/*
+ * author: SciZeal
+ * email:  SciZeal@outlook.com
+ * time:   2020-05-11
+ *
+ * ALL COPYRIGHTS RESERVED
+ */
+
+#define __AUTHOR__IS__SCIZEAL__
+
+#include <stdio.h>
+#include <string.h>
+
+#define maxn 100
+
+int search(char *string, char key)
+{
+    int length = strlen(string);
+    for (int i = 0; i < length; i++)
+    {
+        if (string[i] == key)
+        {
+            return i;
+        }
+    }
+    return -1;
+}
+
+int main()
+{
+    char string[maxn], key;
+    gets(string);
+    scanf("%c", &key);
+    printf("%d\n", search(string, key));
+
+    return 0;
+}
