@@ -1,17 +1,19 @@
 # XJTU-CollegeComputer-2020spring
->   Used to store **OJ codes in homework** and keep a study record.
+>   Used to store **OJ codes in homework** and keep a study record by [SciZeal](https://github.com/SciZeal).
 
 ## :page_with_curl: How to view code
 
--   ​Click following :link:links to <u>view detail code for homework</u> in XJTU online-judge system (with <u>MOOC test answers</u> every week).
+-   Click following :link:links to <u>view detail code for homework</u> in XJTU online-judge system (with <u>MOOC test answers</u> every week).
 
-:pushpin: [Code for week 06](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-06)
+:pushpin: [Code for week 13](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-13)
 
-:pushpin: [Code for week 10](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-10)
+:pushpin: [Code for week 12](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-12)
 
 :pushpin: [Code for week 11](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-11)
 
-:pushpin: [Code for week 12](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-12)
+:pushpin: [Code for week 10](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-10)
+
+:pushpin: [Code for week 06](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-06)
 
 :secret: ​[Answers for MOOC tests](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/MOOCtests)
 
