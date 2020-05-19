@@ -1,5 +1,7 @@
 # XJTU-CollegeComputer-2020spring
->   Used to store **OJ codes in homework** and keep a study record by [SciZeal](https://github.com/SciZeal).
+>   This repository is licensed under the terms of the MIT license.
+
+This repository is used to store OJ codes in homework and keep a study record by [SciZeal](https://github.com/SciZeal).
 
 ## :page_with_curl: How to view code
 
