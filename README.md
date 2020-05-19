@@ -1,5 +1,5 @@
 # XJTU-CollegeComputer-2020spring
->   This repository is licensed under the terms of the MIT license.
+>   This repository is licensed under the terms of the [MIT license](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/blob/master/LICENSE).
 
 This repository is used to store OJ codes in homework and keep a study record by [SciZeal](https://github.com/SciZeal).
 
@@ -17,7 +17,7 @@ This repository is used to store OJ codes in homework and keep a study record by
 
 :pushpin: [Code for week 06](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-06)
 
-:secret: ​[Answers for MOOC tests](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/MOOCtests)
+:secret: ​[Keys to MOOC tests](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/MOOCtests)
 
 >   Don't worry, I'll upload codes for the previous weeks very quickly :calendar: Thanks for understanding!
 
