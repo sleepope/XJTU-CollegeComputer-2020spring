@@ -7,6 +7,8 @@ This repository is used to store OJ codes in homework and keep a study record by
 
 -   Click following :link:links to <u>view detail code for homework</u> in XJTU online-judge system (with <u>MOOC test answers</u> every week).
 
+:pushpin: [Code for week 14](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-14)
+
 :pushpin: [Code for week 13](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-13)
 
 :pushpin: [Code for week 12](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/tree/master/wk-12)
