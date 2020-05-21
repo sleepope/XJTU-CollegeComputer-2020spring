@@ -1,5 +1,5 @@
 # XJTU-CollegeComputer-2020spring
->   This repository is licensed under the terms of the [MIT license](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/blob/master/LICENSE).
+>   This repository is licensed under [MIT license](https://github.com/SciZeal/XJTU-CollegeComputer-2020spring/blob/master/LICENSE).
 
 This repository is used to store OJ codes in homework and keep a study record by [SciZeal](https://github.com/SciZeal).
 
