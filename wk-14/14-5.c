@@ -1,7 +1,7 @@
 /*
  * author: SciZeal
  * email:  SciZeal@outlook.com
- * time:   2020-05-11
+ * time:   2020-05-18
  *
  * MIT LICENCE
  */
@@ -13,15 +13,17 @@
 
 #define maxn 100
 
-// search the index of key in string[]
+char string[maxn];
+
+// return the position (index + 1) of key element
 int search(char *string, char key)
 {
     int length = strlen(string);
     for (int i = 0; i < length; i++)
     {
-        if (string[i] == key)
+        if (key == string[i])
         {
-            return i;
+            return i + 1;
         }
     }
     return -1;
@@ -29,10 +31,7 @@ int search(char *string, char key)
 
 int main()
 {
-    char string[maxn], key;
     gets(string);
-    scanf("%c", &key);
-    printf("%d\n", search(string, key));
-
+    printf("%d\n", search(string, string[search(string, '*')]));
     return 0;
 }

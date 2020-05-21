@@ -3,7 +3,7 @@
  * email:  SciZeal@outlook.com
  * time:   2020-05-13
  *
- * ALL COPYRIGHTS RESERVED
+ * MIT LICENCE
  */
 
 #include <stdio.h>

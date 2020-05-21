@@ -3,7 +3,7 @@
  * email:  SciZeal@outlook.com
  * time:   2020-04-27
  *
- * ALL COPYRIGHTS RESERVED
+ * MIT LICENCE
  */
 
 #define __AUTHOR__IS__SCIZEAL__

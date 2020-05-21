@@ -3,41 +3,45 @@
  * email:  SciZeal@outlook.com
  * time:   2020-05-18
  *
- * ALL COPYRIGHTS RESERVED
+ * MIT LICENCE
  */
 
 #define __AUTHOR__IS__SCIZEAL__
 
+#include <stdbool.h>
 #include <stdio.h>
 
-#define maxn 20
-
-int arr[20] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-int insert[maxn];
+#define maxn 100
+int arr[maxn] = {0};
 
 int main()
 {
-    int n;
+    int m, n, num;
+    scanf("%d", &m);
+    for (int i = 0; i < m; i++)
+    {
+        scanf("%d", &num);
+        arr[num] += 1;
+    }
     scanf("%d", &n);
     for (int i = 0; i < n; i++)
     {
-        scanf("%d", insert + i);
+        scanf("%d", &num);
+        arr[num] += 1;
     }
-    int pos;
-    scanf("%d", &pos);
 
-    printf("%d", *arr);
-    for (int i = 1; i < pos; i++)
+    bool flag = false;
+    for (int i = 0; i < maxn; i++)
     {
-        printf(" %d", arr[i]);
-    }
-    for (int i = 0; i < n; i++)
-    {
-        printf(" %d", insert[i]);
-    }
-    for (int i = pos; i < 10; i++)
-    {
-        printf(" %d", arr[i]);
+        if (arr[i] == 1)
+        {
+            if (flag)
+            {
+                printf(" ");
+            }
+            printf("%d", i);
+            flag = true;
+        }
     }
 
     return 0;
