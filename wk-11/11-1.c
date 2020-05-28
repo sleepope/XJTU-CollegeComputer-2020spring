@@ -10,21 +10,22 @@
 
 #include <stdio.h>
 
-#define maxn 100
 #define infty 1000
 
 int main()
 {
+    int tmp, sum = 0;
+    int max = -infty, min = infty;
+
     int num;
     scanf("%d", &num);
-    int arr[maxn], sum = 0;
-    int max = -infty, min = infty;
+
     for (int i = 0; i < num; i++)
     {
-        scanf("%d", arr + i);
-        sum += arr[i];
-        max = (arr[i] > max) ? arr[i] : max;
-        min = (arr[i] < min) ? arr[i] : min;
+        scanf("%d", &tmp);
+        sum += tmp;
+        max = (tmp > max) ? tmp : max;
+        min = (tmp < min) ? tmp : min;
     }
     printf("%d\n%d\n%lf", max, min, sum * 1.0 / num);
 
