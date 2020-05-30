@@ -6,7 +6,7 @@
  * MIT LICENCE
  */
 
-#define __AUTHOR__IS__SCIZEAL__
+#define _AUTHOR_IS_SCIZEAL
 
 #include <stdio.h>
 #include <stdlib.h>
