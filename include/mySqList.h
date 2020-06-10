@@ -9,6 +9,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+typedef struct SqList sqlist;
+void lprintf(sqlist list);
+sqlist initSqList(int size);
+int findElement(sqlist list, int element);
+sqlist addElement(sqlist list, int element, int index);
+sqlist removeElement(sqlist list, int element);
+sqlist amendElement(sqlist list, int element, int newElement);
+
 typedef struct SqList
 {
     int *head;  // array of list elements
@@ -100,34 +108,4 @@ sqlist amendElement(sqlist list, int element, int newElement)
         list.head[index] = newElement;
     }
     return list;
-}
-
-int main()
-{
-    int size = 10;
-    sqlist list = initSqList(size);
-
-    // fill elements
-    for (int i = 0; i < size; i++)
-    {
-        list.head[i] = i;
-        list.length++;
-    }
-    lprintf(list);
-
-    // add element
-    list = addElement(list, 100, 0);
-    list = addElement(list, 100, list.length);
-    lprintf(list);
-
-    // remove element
-    list = removeElement(list, 5);
-    list = removeElement(list, 100);
-    lprintf(list);
-
-    // amend element
-    list = amendElement(list, 6, 666);
-    lprintf(list);
-
-    return 0;
 }
