@@ -37,7 +37,12 @@ This repository is used to store OJ codes in homework and keep a study record by
 ## :computer: Code Editor
 
 -   VScode
+
 -   Vim
+
+-   Typora (markdown)
+
+    >All markdown files are rendered by Typora, thus might be some problems when viewing them on GitHub.
 
 ## :email: Contact Me
 
