@@ -278,7 +278,7 @@
     -   指令和数据分别存放在两个独立的存储器模块中
     -   CPU 与存储器间指令和数据的传送分别采用两组独立的总线
 
-![harvard](img/harvard.svg)
+![harvard](../img/harvard.svg)
 
 # 操作系统基础
 
@@ -349,7 +349,7 @@ $$
 1.  程序及数据以文件形式存放在外存
 2.  程序必须调入内存才能被计算机执行
 
-![userProgram](img/userProgram.svg)
+![userProgram](../img/userProgram.svg)
 
 ### 主要功能
 
@@ -383,7 +383,7 @@ $$
 >   两个及以上的存储器相结合, 从而扩充容量, 提升速度, 降低价格
 
 -   cache 存储器系统 (提速): 高速缓冲存储器 (cache) + 主内存
-![cache](img/cache.svg)
+![cache](../img/cache.svg)
 -   虚拟存储器系统 (扩容): 内存 + 部分联机外存
 
 ## 文件管理
@@ -532,7 +532,7 @@ $$
 -   一个 IP 地址可以有 $2^{16}$ 个端口
 -   主机通过 "IP 地址 + 端口号" 区分不同的服务
 
-![port](img/port.svg)
+![port](../img/port.svg)
 
 ### 域名
 
