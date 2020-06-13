@@ -62,13 +62,6 @@ int main()
 
     int diff = pileY - pileX;
     generate(diff);
-
-    // if in the mustLose set
-    if (pileX == set[diff].pileA)
-    {
-        printf("0\n");
-        return 0;
-    }
-    printf("1\n");
+    printf("%d\n", pileX != set[diff].pileA);
     return 0;
 }
